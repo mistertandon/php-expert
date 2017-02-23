@@ -10,5 +10,6 @@
         <li role="presentation"><a href="./unicode_codepoint.php">Unicode escape</a></li>
         <li role="presentation"><a href="./functional_call_context.php">Functional call context</a></li>
         <li role="presentation"><a href="./namespace_fn.php">Namespace</a></li>
+        <li role="presentation"><a href="./intval.php">intdiv function</a></li>
     </ul>                
 </div>
