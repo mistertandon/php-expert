@@ -5,5 +5,6 @@
         <li role="presentation"><a href="./coalescing.php">Coalescing</a></li>
         <li role="presentation"><a href="./spaceship_operator.php">Coalescing</a></li>
         <li role="presentation"><a href="./define_arr_constant.php">Define Arr const</a></li>
+        <li role="presentation"><a href="./static_var_in_fn.php">Static Var</a></li>
     </ul>                
 </div>
