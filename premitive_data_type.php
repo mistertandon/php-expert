@@ -37,7 +37,6 @@
                 return array($firstArg, $secondArg, $thirdArg);
             }
 
-            parseFn
             ?>
             <div class="row">
                 <div class="col-sm-10 col-sm-offset-1 well header-margin">
