@@ -22,7 +22,7 @@
                     <span class="primary">
                         CASE A: How static variable works inside function
                     </span>
-
+                    <hr>
                     <?php
 
                     function callableFn() {
