@@ -55,6 +55,7 @@
                     ?>
 
                 </div>
+                <hr>
                 <div class="col-sm-10">
                     <span class="primary">
                         Coercive data-type to `bool`
@@ -68,6 +69,7 @@
                     ?>
 
                 </div>
+                <hr>
                 <div class="col-sm-10">
                     <span class="primary">
                         Coercive data-type to `bool`

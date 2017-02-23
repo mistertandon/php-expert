@@ -37,6 +37,7 @@
                     ?>
 
                 </div>
+                <hr>
                 <div class="col-sm-10 type-dependency">
                     <span class="primary">
                         CASE B: Demonstrating `Dependency Injection` available in PHP 7
@@ -64,6 +65,7 @@
                     ?>
 
                 </div>
+                <hr>
                 <div class="col-sm-10 type-dependency">
                     <span class="primary">
                         CASE C: Demonstrating `Dependency Injection` using interface
@@ -96,6 +98,7 @@
                     ?>
 
                 </div>
+                <hr>
                 <div class="col-sm-10">
                     <span class="primary">
                         CASE D: Demonstrating `Dependency Injection` using self type
