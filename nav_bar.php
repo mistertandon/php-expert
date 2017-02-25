@@ -13,5 +13,7 @@
         <li role="presentation"><a href="./intval.php">intdiv function</a></li>
         <li role="presentation"><a href="./randon_function.php">Random function</a></li>
         <li role="presentation"><a href="./function_generators.php">Function Generator</a></li>
+        <li role="presentation"><a href="./polymorphism.php">Polymorphism</a></li>
+        <li role="presentation"><a href="./trait.php">Trait</a></li>
     </ul>                
 </div>
